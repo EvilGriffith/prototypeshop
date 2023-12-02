@@ -1,0 +1,36 @@
+.maincarousel{
+    margin-top: 10px;
+    margin-left: 7%;
+    height: 500px;
+    width: 85%;
+    display:flex;
+    align-items: center;
+}
+
+.window{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.allitems{
+    height: 100%;
+    display: flex;
+}
+.leftarrow{
+    cursor: pointer;
+    background-image: url("public/leftarrow.png");
+    height: 32px;
+    width: 32px;
+}
+.rightarrow{
+    cursor: pointer;
+    background-image: url("public/rightarrow.png");
+    height: 32px;
+    width: 32px;
+}
+.allitems{
+    transition: traslate;
+    transition-property: transform;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+}

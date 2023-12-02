@@ -1,0 +1,42 @@
+.obj{
+    width: 12%;
+    height:100%;
+    color:white;
+    margin-right: 50px;  
+}
+.imageprod{
+    height: 80%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.price{
+    color:#2d2d2d;
+    width: 100px;
+    height: 20px;
+    margin-top: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    font-weight: 700;
+}
+.name{
+    color: #434343;
+    width: 80%;
+    height: 50px;
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 10px;
+}
+.error{
+    width: 200px;
+    height: 70px;
+    font-weight: 700;
+    color:#434343;
+}
