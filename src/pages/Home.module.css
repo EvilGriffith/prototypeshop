@@ -56,7 +56,7 @@
 .searchbut{
     width: 40px;
     height: 40px;
-    background-image:url("public/search.png");
+    background-image:url("https://evilgriffith.github.io/images/search.png");
     background-repeat: no-repeat;
     background-position: center;
     float: right;
@@ -72,7 +72,7 @@
 .basket{
     width: 38px;
     height: 38px;
-    background-image: url("public/basket.png");
+    background-image: url("https://evilgriffith.github.io/images/basket.png");
     background-position: center;
     background-repeat: no-repeat;
     margin-left: 10%;
@@ -85,7 +85,7 @@
 .hamburger{
     width: 38px;
     height: 38px;
-    background-image: url("public/hamburger.png");
+    background-image: url("https://evilgriffith.github.io/images/hamburger.png");
     background-repeat: no-repeat;
     background-position: center;
     visibility: hidden;
@@ -296,7 +296,7 @@
     .eror{
         width: 38px;
         height: 38px;
-        background-image: url("public/eror.png");
+        background-image: url("https://evilgriffith.github.io/images/eror.png");
         background-repeat: no-repeat;
         background-position: center;
         transition: 0.3s ease-in;

@@ -18,13 +18,13 @@
 }
 .leftarrow{
     cursor: pointer;
-    background-image: url("public/leftarrow.png");
+    background-image: url("https://evilgriffith.github.io/images/leftarrow.png");
     height: 32px;
     width: 32px;
 }
 .rightarrow{
     cursor: pointer;
-    background-image: url("public/rightarrow.png");
+    background-image: url("https://evilgriffith.github.io/images/rightarrow.png");
     height: 32px;
     width: 32px;
 }
